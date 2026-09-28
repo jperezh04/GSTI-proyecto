@@ -1,0 +1,28 @@
+name: Tarea verificable
+description: Trabajo con aceptación, responsable y evidencia
+body:
+  - type: input
+    id: key
+    attributes:
+      label: Clave OF y responsable
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Objetivo y dependencias
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Criterios de aceptación
+      description: Copiar los criterios pertinentes y mantener trazabilidad.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencia y revisor independiente
+    validations:
+      required: true
