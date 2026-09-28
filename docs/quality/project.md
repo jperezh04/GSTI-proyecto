@@ -1,6 +1,6 @@
 # GitHub Project — Obra Futura
 
-Configuración preparada; no creada en GitHub todavía. Abrir exclusivamente OF-01 a OF-06; no crear las siete épicas como issues en esta iteración. Representarlas con el campo Epic.
+Project 2 e issues #4–#9 creados según salida CLI aportada por Jeremy. Campos configurados por script; vistas, fechas y relaciones nativas pendientes. Abrir exclusivamente OF-01 a OF-06; no crear las siete épicas como issues en esta iteración. Representarlas con el campo Epic.
 
 Campos:
 - Status: Backlog, Ready, In progress, In review, Done, Blocked.

@@ -16,7 +16,7 @@ Son versiones fijadas verificadas, no una afirmación de ser las más recientes.
 3. Retirar el fallo con un commit, comprobar verde y revisión independiente; no fusionar el fallo.
 4. Activar `quality` como check requerido en main y verificar que una PR roja no se pueda fusionar bajo las reglas efectivas.
 
-Esto sigue pendiente: no se han ejecutado Actions ni activado protecciones remotas. Los resultados locales se registran aparte.
+Jeremy aportó salida CLI que confirma el CI inicial exitoso en main (run 36375590336) y tres ejecuciones exitosas en PR de Dependabot. Falta prueba de fallo intencional y verificación de protecciones remotas. Los resultados locales se registran aparte.
 
 ## CD cuando exista una entrega desplegable
 

@@ -37,3 +37,7 @@ La muestra de tests es sintética, exclusivamente para verificar software. No es
 `docs/issues`: únicamente OF-01 a OF-06, criterios literales del backlog. `docs/requirements/traceability.csv`: matriz criterio–responsable–evidencia. `docs/data`: inventario y protocolo. `data/raw`: originales locales excluidos de Git. `src`: ingesta, validación, procesamiento y análisis. No publicar originales grandes, secretos o datos personales innecesarios.
 
 Ver `docs/quality/project.md`, `docs/quality/collaboration.md` y `docs/quality/ci-cd.md`. M0 no termina con estas seis tareas: OF-12 decidirá continuar, acotar o reformular en una iteración posterior.
+
+## Entrega de avance
+
+[Informe M0 y recorrido de demostración](docs/AVANCE-M0.md) · [Gestión y calidad ISO](docs/quality/gestion-y-calidad-iso.md) · [Acta inicial](docs/management/project-charter.md) · [Riesgos](docs/management/risk-register.csv) · [Matriz RNF](docs/quality/rnf-matrix.csv). Documentos propuestos; pendientes y limitaciones explícitos.

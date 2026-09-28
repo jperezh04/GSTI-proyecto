@@ -1,0 +1,10 @@
+id,issue,riesgo,probabilidad_propuesta,impacto_propuesto,responsable,respuesta,disparador,estado
+R-01,OF-05,Fuente inaccesible o reutilización incierta,Alta,Alta,Ower,Registrar intentos y condiciones; buscar recurso oficial alternativo,No obtener archivo o permiso claro,Abierto
+R-02,OF-06,Asientos sin narración útil,Media,Alta,Ower,"Inspeccionar archivo y diccionario; distinguir texto, enlaces y metadatos",Campos sin texto o cobertura insuficiente,Abierto
+R-03,OF-06,Falta de historial de publicación,Alta,Alta,Alan,"Separar hecho, publicación y adquisición; no reconstruir fechas inventadas",available_at histórico no demostrable,Abierto
+R-04,OF-06,"Confundir CUI, obra y contrato",Media,Alta,Ower,Conservar IDs y granularidad; posponer joins no auditados,Duplicación de importes o identidad ambigua,Abierto
+R-05,OF-02,Equipo sin cuentas o revisión efectiva,Media,Media,Mauricio,Confirmar usuarios; comprobar reglas y revisor independiente,PR sin revisión o responsable no asignable,Abierto
+R-06,OF-01,Ampliación de alcance antes de probar viabilidad,Alta,Alta,Jeremy,Mantener exclusiones y registrar cambios,Pedido de modelos/UI antes de datos suficientes,Abierto
+R-07,OF-04,CI verde que no bloquea errores reales,Media,Alta,Alan,Fallo intencional remoto y prueba de protección,PR roja fusionable o tests no ejecutados,Abierto
+R-08,OF-03,Afirmar cumplimiento ISO sin evidencia,Media,Alta,Sebastian,Usar alineación propuesta; revisar edición y requisitos completos,Afirmación normativa sin evaluación,Abierto
+R-09,OF-05,Publicar información personal innecesaria,Media,Alta,Ower,Revisar muestras y mantener originales fuera de Git,Identificadores personales sin utilidad para el estudio,Abierto

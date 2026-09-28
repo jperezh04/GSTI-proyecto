@@ -5,6 +5,6 @@
 - Ejecución del perfilador sobre fixture sintética: correcta.
 - Casos comprobados: ceros iniciales en IDs, nulos, duplicados, fechas inválidas, columnas ausentes, cabeceras duplicadas, filas mal formadas, archivo vacío, hash y rechazo de sobrescritura de manifiesto.
 
-No son resultados de datos públicos ni evidencia de cobertura. No hay modelos entrenados. No se ha ejecutado GitHub Actions ni demostrado el fallo intencional remoto.
+No son resultados de datos públicos ni evidencia de cobertura. No hay modelos entrenados. Jeremy aportó salida CLI con CI inicial exitoso (run 36375590336). Sigue pendiente demostrar el fallo intencional remoto.
 
-Repositorio público creado: `jperezh04/GSTI-proyecto`. Project, issues y asignaciones remotas pendientes. Las seis issues y sus 18 criterios están preparados en `docs/issues` y `docs/requirements/traceability.csv`. Falta confirmar cuentas GitHub del equipo, revisión independiente, reglas efectivas y configuración remota de campos/vistas.
+Repositorio público creado: `jperezh04/GSTI-proyecto`. Jeremy confirmó Project 2 e issues #4–#9 mediante salida CLI. Las asignaciones del resto del equipo siguen pendientes. Las seis issues y sus 18 criterios están preparados en `docs/issues` y `docs/requirements/traceability.csv`. Falta confirmar cuentas GitHub del equipo, revisión independiente, reglas efectivas y configuración remota de campos/vistas.
