@@ -1,0 +1,3 @@
+[submodule "implementacion"]
+	path = implementacion
+	url = https://github.com/OwerLopez/sato_peru_2026.git
